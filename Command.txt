@@ -1,0 +1,15 @@
+
+Create a folder named acadview
+
+For Mac open cmd , navigate to acadview folder and type git intit
+
+
+Create a public repository in  Github account.
+
+clone that repository in the folder you created in Step 1 using command git clone 
+
+
+git status - 
+For checking the status 
+git add . -> For adding all the new changes 
+git commit -m "commit message" - For committing the code with a message iv.) git push origin master -> Pushing the changes to Github
