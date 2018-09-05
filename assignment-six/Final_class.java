@@ -1,23 +1,4 @@
-/*
-	if we use final class animal 
-	then cat cannot inherit animal class.
-
-	Example:-
-	
-	final class animal 
-	{
-	
-	}
-	class cat extends animal
-	{
-
-	}
-		
-		ERROR - MESSAGE ->"cannot inherit from final animal
-												class cat extends animal."
-*/
-
-class animal
+final class animal
 {
 	void display()
 	{
