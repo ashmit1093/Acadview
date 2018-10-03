@@ -7,6 +7,7 @@ class Animal
 	{
 
 	}
+
 	Animal(String b , String c)
 	{
 		breed = b;
@@ -24,8 +25,6 @@ class Dog extends Animal
 	
 	Dog(String b , String c)
 	{
-		
-
 		breed = b;
 		color = c;
 	}
